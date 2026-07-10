@@ -211,7 +211,6 @@ export class WikiJsApi {
             isSystem
             isActive
             createdAt
-            updatedAt
           }
         }
       }
